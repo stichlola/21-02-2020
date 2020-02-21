@@ -1,0 +1,19 @@
+{
+  "Items": [
+    {
+      "": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "Status": {
+    "name": "typicode"
+  }
+}
